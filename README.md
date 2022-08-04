@@ -1,2 +1,2 @@
 # training-DevOps
-hi weclome h=github
+hi weclome github
